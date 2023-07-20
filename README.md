@@ -6,7 +6,7 @@ seeking new challenges to enhance my development skills.
 ### :desktop_computer:Interests 
 - Algorithms and Data Structures;
 - Programming languages: C, C++, C#, Shell Script, JavaScript, html, css;
-- Game Development;
+- Game Development.
 ### :telephone:Contact 
 - Github: matheusPavoski
 - Email: theusopavoski@gmail.com
