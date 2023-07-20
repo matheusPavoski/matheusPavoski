@@ -5,7 +5,7 @@ My name is <strong>Matheus Pavoski</strong>, and i'm a cadet at <strong>42SP</st
 seeking new challenges to enhance my development skills.
 ### :desktop_computer:Interests 
 - Algorithms and Data Structures;
-- Programming languages: C, C++, C#, Shell Script, html, css;
+- Programming languages: C, C++, C#, Shell Script, JavaScript, html, css;
 - Game Development;
 ### :telephone:Contact 
 - Github: matheusPavoski
