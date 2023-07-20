@@ -12,5 +12,6 @@ seeking new challenges to enhance my development skills.
 - Email: theusopavoski@gmail.com
 - LinkedIn: [Matheus Pavoski](https://www.linkedin.com/in/matheus-pavoski-a5601b190/)
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavoski&theme=transparent)](https://github.com/matheusPavoski/github-readme-stats)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=transparent)
 
