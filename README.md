@@ -1,7 +1,7 @@
 ## :vulcan_salute:Hi there, welcome to my github profile! 
 ![cat-coding](https://github.com/matheusPavoski/matheusPavoski/assets/54029562/c44538aa-1ebd-4cea-aa42-c7bf850d4edd)
 ### :studio_microphone:About me 
-- My name is <strong>Matheus Pavoski</strong>, and i'm a cadet at <strong>42SP</strong>, currently studying to become a Software Engineer. I have a strong passion for programming, games and am constantly
+- My name is <strong>Matheus Pavoski</strong> and i'm a cadet at <strong>42SP</strong>, currently studying to become a Software Engineer. I have a strong passion for programming, games and am constantly
 seeking new challenges to enhance my development skills.
 ### :desktop_computer:Interests 
 - Algorithms and Data Structures;
