@@ -11,7 +11,6 @@ seeking new challenges to enhance my development skills.
 - Github: matheusPavoski
 - Email: theusopavoski@gmail.com
 - LinkedIn: [Matheus Pavoski](https://www.linkedin.com/in/matheus-pavoski-a5601b190/)
-### :sweat_drops: 42SP Warm-up 
-[![mmaschio's 42 stats](https://badge42.vercel.app/api/v2/clkblnlu7001608l83ar9hs4v/stats?cursusId=60&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=dark&show_icons=true)
 
