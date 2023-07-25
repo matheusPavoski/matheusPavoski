@@ -1,6 +1,6 @@
 ## :vulcan_salute:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=120&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=30"/>
-<p align='center'>
+<p>
 <img src='https://github.com/matheusPavoski/matheusPavoski/assets/54029562/c44538aa-1ebd-4cea-aa42-c7bf850d4edd'>
 </p>
 
