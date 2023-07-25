@@ -1,5 +1,5 @@
 ## :vulcan_salute:
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header&text=Hey%20there,%20welcome%20to%20my%20%githubprofile!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=120&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=30"/>
 <p align='center'>
 <img src='https://github.com/matheusPavoski/matheusPavoski/assets/54029562/c44538aa-1ebd-4cea-aa42-c7bf850d4edd'>
 </p>
@@ -18,5 +18,5 @@ seeking new challenges to enhance my development skills.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavoski&theme=transparent)](https://github.com/matheusPavoski/github-readme-stats)
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=transparent)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=120&section=footer"/>
 
