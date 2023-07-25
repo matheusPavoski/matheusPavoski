@@ -1,4 +1,4 @@
-<p align='left'>
+<p align='center'>
 <img width=90 height=90 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
 </p>
 
