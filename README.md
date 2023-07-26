@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=100&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=25&fontColor=FFFFFF&animation=twinkling&fontAlignY=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=100&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=25&fontColor=FFFFFF&animation=twinkling&fontAlignY=20"/>
 <div style="display: inline_block">
   <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(3).gif'>
   <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
