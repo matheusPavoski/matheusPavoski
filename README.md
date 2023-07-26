@@ -1,12 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=120&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=30"/>
 <div style="display: inline_block">
-  <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(1).gif'>
-  <img align='left' width=90 height=90 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
+  <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(3).gif'>
+  <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
 </div>
 <br>
 <h1 align='center'>About me</h1> 
 <br>
 <p align='center'>My name is <strong>Matheus Pavoski</strong> and i'm a cadet at <a href="https://www.42sp.org.br/" target="_blank"><strong>42SP</strong></a>, currently studying to become a Software Engineer. I have a strong passion for programming, games and am constantly seeking new challenges to enhance my development skills.</p>
+<div style="display: inline_block">
+  <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(4).gif'>
+  <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(2).gif'>
+</div>
 <br>
 <h1 align='center'>Interests</h1> 
 <br>
@@ -20,6 +24,10 @@
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
 </div>
+<div style="display: inline_block">
+  <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(1).gif'>
+  <img align='left' width=90 height=90 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
+</div>
 <br>
 <h1 align='center'>Contact</h1>
 <br>
@@ -28,6 +36,7 @@
   <a href="mailto:theusopavoski@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
   <a href="https://www.linkedin.com/in/matheus-pavoski-a5601b190/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div>
+<hr>
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=transparent">
