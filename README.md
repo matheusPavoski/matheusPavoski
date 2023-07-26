@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=120&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=30"/>
-
-<p align='center'>
-<img width=90 height=90 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
-</p>
-
+<div style="display: inline_block">
+  <img align='right' width=90 height=90 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
+  <img align='left' width=90 height=90 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
+</div>
+<br>
 <h1 align='center'>About me</h1> 
 <p align='center'>My name is <strong>Matheus Pavoski</strong> and i'm a cadet at <a href="https://www.42sp.org.br/" target="_blank"><strong>42SP</strong></a>, currently studying to become a Software Engineer. I have a strong passion for programming, games and am constantly seeking new challenges to enhance my development skills.</p>
 <br>
