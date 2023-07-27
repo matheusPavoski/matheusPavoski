@@ -43,6 +43,10 @@
 </p>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=transparent">
-</p>
+</p> 
+<div align='center'>
+<img src="https://komarev.com/ghpvc/?username=matheusPavoski&label=Profile%20Views&color=0163EE" 
+</div>
+<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=100&section=footer"/>
 
