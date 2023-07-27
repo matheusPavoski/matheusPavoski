@@ -39,10 +39,10 @@
 <hr>
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavoski&theme=transparent">
 </p>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavoski&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=transparent">
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=100&section=footer"/>
 
