@@ -39,10 +39,10 @@
 <hr>
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavoski&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavoski&theme=transparent&color=0163EE">
 </p>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=transparent&color=0163EE"">
 </p> 
 <div align='center'>
 <img src="https://komarev.com/ghpvc/?username=matheusPavoski&label=Profile%20Views&color=0163EE" 
