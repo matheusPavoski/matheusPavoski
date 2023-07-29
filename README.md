@@ -49,5 +49,4 @@
 <img src="https://komarev.com/ghpvc/?username=matheusPavoski&label=Profile%20Views&color=0163EE" 
 </div>
 <br>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=100&section=footer"/>
