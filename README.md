@@ -33,8 +33,6 @@
 <h2 align='center'>Contact</h2>
 <br>
 <div style="display: inline_block" align='center'>
-  <a href="https://github.com/matheusPavoski"><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-  <a href="mailto:---"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
   <a href="https://www.linkedin.com/in/matheus-pavoski-a5601b190/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div>
 <hr>
