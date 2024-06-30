@@ -6,7 +6,7 @@
 <br>
 <h2 align='center'>About me</h2> 
 <br>
-<p align='center'>My name is <strong>Matheus Pavoski</strong> and I'm a cadet at <a href="https://www.42sp.org.br/" target="_blank"><strong>42SP</strong></a>, currently studying to become a Software Engineer. I have a strong passion for programming, games and am constantly seeking new challenges to enhance my development skills.</p>
+<p align='center'>My name is <strong>Matheus Pavoski</strong> and I'm a currently studying to become a Software Engineer. I have a strong passion for programming, games and am constantly seeking new challenges to enhance my development skills.</p>
 <div style="display: inline_block">
   <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(4).gif'>
   <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(2).gif'>
