@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=100&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=25&fontColor=FFFFFF80&animation=twinkling&fontAlignY=25"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=25&fontColor=FFFFFF80&animation=twinkling&fontAlignY=25"/>
 <div style="display: inline_block">
   <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(3).gif'>
   <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
@@ -30,7 +30,7 @@
 <h2 align='center'>Contact</h2>
 <br>
 <div style="display: inline_block" align='center'>
-  <a href="https://www.linkedin.com/in/matheus-pavoski-a5601b190/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+  <a href="https://www.linkedin.com/in/matheus-pavoski-a5601b190/"><img src='https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div>
 <hr>
 <br>
@@ -44,4 +44,4 @@
 <img src="https://komarev.com/ghpvc/?username=matheusPavoski&label=Profile%20Views&color=0163EE" 
 </div>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0163EE&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
