@@ -15,12 +15,12 @@
 <h2 align='center'>Interests/Learning</h2> 
 <br>
 <div style="display: inline_block" align='center'>
-  <a href="https://www.learn-c.org/"><img src='https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black'></a>
-  <a href="https://www.learncpp.com/"><img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'></a>
-  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white"></a>
-  <a href="https://www.sfml-dev.org/"><img src='https://img.shields.io/badge/SFML-8CC445.svg?style=for-the-badge&logo=SFML&logoColor=white'></a>
-  <a href="https://www.linux.org/pages/download/"><img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'></a>
-  <a href="https://git-scm.com/"><img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'></a>
+  <a href="https://www.learn-c.org/"><img src='https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=C&logoColor=white'></a>
+  <a href="https://www.learncpp.com/"><img src='https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white'></a>
+  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-000000.svg?style=for-the-badge&logo=Vim&logoColor=white"></a>
+  <a href="https://www.sfml-dev.org/"><img src='https://img.shields.io/badge/SFML-000000.svg?style=for-the-badge&logo=SFML&logoColor=white'></a>
+  <a href="https://www.linux.org/pages/download/"><img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img src='https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white'></a>
 </div>
 <div style="display: inline_block">
   <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/tel.gif'>
