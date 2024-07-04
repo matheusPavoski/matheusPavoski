@@ -35,13 +35,10 @@
 <hr>
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavoski&theme=transparent&color=0163EE">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavoski&theme=transparent&color=ffffff">
 </p>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=matheusPavoski&theme=transparent&color=0163EE"">
-</p> 
 <div align='center'>
-<img src="https://komarev.com/ghpvc/?username=matheusPavoski&label=Profile%20Views&color=0163EE" 
+<img src="https://komarev.com/ghpvc/?username=matheusPavoski&label=Profile%20Views&color=000000" 
 </div>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
