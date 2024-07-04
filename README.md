@@ -1,14 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=25&fontColor=FFFFFF80&animation=twinkling&fontAlignY=25"/>
 <div style="display: inline_block">
-  <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(3).gif'>
-  <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy.gif'>
+  <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(3).gif'>
 </div>
 <br>
 <h2 align='center'>About me</h2> 
 <br>
 <p align='center'>My name is <strong>Matheus Pavoski</strong> and I'm a currently studying to become a Software Engineer. I have a strong passion for programming, games and am constantly seeking new challenges to enhance my development skills.</p>
 <div style="display: inline_block">
-  <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(4).gif'>
   <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(2).gif'>
 </div>
 <br>
@@ -23,8 +21,7 @@
   <a href="https://git-scm.com/"><img src='https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white'></a>
 </div>
 <div style="display: inline_block">
-  <img align='right' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/tel.gif'>
-  <img align='left' width=90 height=90 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/cel.gif'>
+  <img align='left' width=90 height=90 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/tel.gif'>
 </div>
 <br>
 <h2 align='center'>Contact</h2>
