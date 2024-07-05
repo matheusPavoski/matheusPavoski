@@ -1,12 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=25&fontColor=FFFFFF80&animation=twinkling&fontAlignY=25"/>
 <div style="display: inline_block">
-  <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(3).gif'>
+  <img align='left' width=100 height=100 src='https://media3.giphy.com/media/McDxBilGiX2WaT1YLQ/giphy.webp?cid=790b7611i66u5t5qtsd1b5amcmdgbmcjb5i5x6mcb8du58nk&ep=v1_gifs_search&rid=giphy.webp&ct=s'>
+  <img align="right" src="https://media.giphy.com/media/Q9p2zBlMr5aN8TPzi2/giphy.gif" width="100" height="100">
 </div>
 <br>
 <h2 align='center'>About me</h2> 
 <br>
 <p align='center'>My name is <strong>Matheus Pavoski</strong> and I'm a currently studying to become a Software Engineer. I have a strong passion for programming, games and am constantly seeking new challenges to enhance my development skills.</p>
 <div style="display: inline_block">
+  <img align='right' width=80 height=80 src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJjb3U4ZnA5cWE0emlod2N4bm92dnowa3lteHVsaTVmcGRoNWQwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gUNA7QH4AeLde/giphy.webp'>
   <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(2).gif'>
 </div>
 <br>
@@ -21,7 +23,8 @@
   <a href="https://git-scm.com/"><img src='https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white'></a>
 </div>
 <div style="display: inline_block">
-  <img align='left' width=90 height=90 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/tel.gif'>
+  <img align='left' width=90 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/tel.gif'>
+  <img align='right' width=90 height=100 src='https://media4.giphy.com/media/cYo5kVb23PaZmwUiYk/giphy.webp?cid=ecf05e47r85n35mwkdfj420zey0qj36db16tumazxiryb67w&ep=v1_gifs_search&rid=giphy.webp&ct=s'>
 </div>
 <br>
 <h2 align='center'>Contact</h2>
