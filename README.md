@@ -1,15 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=25&fontColor=FFFFFF80&animation=twinkling&fontAlignY=25"/>
 <div style="display: inline_block">
-  <img align='left' width=100 height=100 src='https://media3.giphy.com/media/McDxBilGiX2WaT1YLQ/giphy.webp?cid=790b7611i66u5t5qtsd1b5amcmdgbmcjb5i5x6mcb8du58nk&ep=v1_gifs_search&rid=giphy.webp&ct=s'>
-  <img align="right" src="https://media.giphy.com/media/Q9p2zBlMr5aN8TPzi2/giphy.gif" width="100" height="100">
+  <img align='left' width=100 height=100 src='https://media1.giphy.com/media/6o96ru5kUh8GjT9DsJ/200w.webp'>
+  <img align="right" src="https://media3.giphy.com/media/ettKGFpjIRTNXtITNp/giphy.webp?cid=790b7611g55kz50pir7nvx1pm941uqrtfz95cxbpwel7u1uq&ep=v1_gifs_search&rid=giphy.webp&ct=s" width="100" height="100">
 </div>
 <br>
 <h2 align='center'>About me</h2> 
 <br>
 <p align='center'>My name is <strong>Matheus Pavoski</strong> and I'm a currently studying to become a Software Engineer. I have a strong passion for programming, games and am constantly seeking new challenges to enhance my development skills.</p>
 <div style="display: inline_block">
-  <img align='right' width=100 height=100 src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY3a3lzN3N6a210bjJvcGl1amR5a3M4Y2F1dXM1bGhrMXF4bnZ4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1z/H1kmRX2Zd7B77PT4DI/giphy.webp'>
-  <img align='left' width=100 height=100 src='https://github.com/matheusPavoski/matheusPavoski/blob/main/giphy%20(2).gif'>
+  <img align='left' width=100 height=100 src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY3a3lzN3N6a210bjJvcGl1amR5a3M4Y2F1dXM1bGhrMXF4bnZ4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1z/H1kmRX2Zd7B77PT4DI/giphy.webp'>
+  <img align='right' width=100 height=100 src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTllNzgyMjIwMWd2NW5kZXc1djB4aWNkMTF2a2Q4dndibWdzbzNwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1z/ao9DUiTKH60XS/200.webp'>
 </div>
 <br>
 <h2 align='center'>Interests/Learning</h2> 
