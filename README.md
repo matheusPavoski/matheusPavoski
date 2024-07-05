@@ -18,7 +18,6 @@
   <a href="https://www.learn-c.org/"><img src='https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=C&logoColor=white'></a>
   <a href="https://www.learncpp.com/"><img src='https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white'></a>
   <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-000000.svg?style=for-the-badge&logo=Vim&logoColor=white"></a>
-  <a href="https://www.sfml-dev.org/"><img src='https://img.shields.io/badge/SFML-000000.svg?style=for-the-badge&logo=SFML&logoColor=white'></a>
   <a href="https://www.linux.org/pages/download/"><img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=Linux&logoColor=white"></a>
   <a href="https://git-scm.com/"><img src='https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white'></a>
 </div>
