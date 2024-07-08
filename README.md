@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=25&fontColor=FFFFFF80&animation=twinkling&fontAlignY=25"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=60&section=header&text=Hey%20there,%20welcome%20to%20my%20%github%20profile!&fontSize=25&fontColor=FFFFFF80&animation=fadeIn&fontAlignY=25"/>
 <div style="display: inline_block">
   <img align='left' width=100 height=100 src='https://media1.giphy.com/media/6o96ru5kUh8GjT9DsJ/200w.webp'>
   <img align="right" src="https://media3.giphy.com/media/ettKGFpjIRTNXtITNp/giphy.webp?cid=790b7611g55kz50pir7nvx1pm941uqrtfz95cxbpwel7u1uq&ep=v1_gifs_search&rid=giphy.webp&ct=s" width="100" height="100">
@@ -37,7 +37,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPavoski&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true">
 </p>
 <div align='center'>
-<img src="https://komarev.com/ghpvc/?username=matheusPavoski&label=Profile%20Views&color=000000" 
+<img src="https://komarev.com/ghpvc/?username=matheusPavoski&label=Profile%20Views&color=000000"/>
 </div>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=60&section=footer"/>
