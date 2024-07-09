@@ -12,7 +12,7 @@
   <img align='right' width=100 height=100 src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTllNzgyMjIwMWd2NW5kZXc1djB4aWNkMTF2a2Q4dndibWdzbzNwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1z/ao9DUiTKH60XS/200.webp'>
 </div>
 <br>
-<h2 align='center'>Interests /Learning</h2> 
+<h2 align='center'>Interests / Learning</h2> 
 <br>
 <div style="display: inline_block" align='center'>
   <a href="https://www.learn-c.org/"><img src='https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=C&logoColor=white'></a>
